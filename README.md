@@ -2,6 +2,8 @@
 
 QuranIVR is a python speech recognition based application that accepts a load and clear voice in a particular order of sentence to query for the chapter name or number along with the verse number by the user and in response it recites the queried chapter and verse or surah's if the voice input is accepted by the system.
 
+Here is a small demo in the given video below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8NOEJHle_U8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Installation
 
