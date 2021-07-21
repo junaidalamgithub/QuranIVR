@@ -1,11 +1,7 @@
-# QuranAI - Speech Recognition IVR based verse recitation
+# QuranIVR - Speech Recognition IVR based verse recitation
 
-QuranAI is a python speech recognition based application that accepts a load and clear voice in a particular order of sentence to query for the chapter name or number along with the verse number by the user and in response it recites the queried chapter and verse or surah's if the voice input is accepted by the system.
+QuranIVR is a python speech recognition based application that accepts a load and clear voice in a particular order of sentence to query for the chapter name or number along with the verse number by the user and in response it recites the queried chapter and verse or surah's if the voice input is accepted by the system.
 
-
-*Warning*: this tool has been released as a forensic tool for a technical audience. Using it requires some technical skills such as understanding basics of forensic analysis and using command line tools.
-
-[Please check out the documentation.](https://mvt.readthedocs.io/en/latest/)
 
 ## Installation
 
