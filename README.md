@@ -39,5 +39,5 @@ There are many features and error handlings that needs to be implemented, some o
 
 ## License
 
-I have made it open source and any developer who wish to refactor and enhance it are free to clone the repository, add enhancements and if they wish to contribute in enhancing it can raise the PR against this branch. Once the PR is reviewed we will review and merge it if found suitable.
+It open source and any developer who wish to refactor and enhance it are free to clone the repository, add enhancements and if they wish to contribute in enhancing it can raise the PR against this branch. Once the PR is reviewed we will review and merge it if found suitable.
 Please note that this codebase is free, but it is still in its draft form and hence not optimized, so we do not serve any warranty or support.
