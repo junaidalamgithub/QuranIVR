@@ -4,7 +4,7 @@ QuranIVR is a python speech recognition based application that accepts a load an
 
 Here is a small demo in the given video below:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/8NOEJHle_U8/0.jpg)](https://www.youtube.com/embed/8NOEJHle_U8 "Python Speech recognition API - Listening to Quran for the Visually Impaired")
+[![Python Speech recognition API - Listening to Quran for the Visually Impaired](http://img.youtube.com/vi/8NOEJHle_U8/0.jpg)](https://www.youtube.com/embed/8NOEJHle_U8 "Python Speech recognition API - Listening to Quran for the Visually Impaired")
 
 ## Installation
 
