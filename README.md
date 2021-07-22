@@ -8,7 +8,7 @@ Here is a small demo in the given video below:
 
 And here is another demo of Translation into English and Urdu/Hindi:
 
-[![Python Speech recognition API - Listening to Quran for the Visually Impaired](http://img.youtube.com/vi/zvhbmXqes20/0.jpg)](https://www.youtube.com/embed/zvhbmXqes20 "Python Speech recognition API - Listening to Quran for the Visually Impaired - Translation")
+[![Python Speech recognition API - Listening to Quran for the Visually Impaired](http://img.youtube.com/vi/mxrJiPvEqRs/0.jpg)](https://www.youtube.com/embed/mxrJiPvEqRs "Python Speech recognition API - Listening to Quran for the Visually Impaired - Translation")
 
 ## Installation
 
